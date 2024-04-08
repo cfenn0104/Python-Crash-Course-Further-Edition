@@ -1,5 +1,3 @@
-#print("I've got a lovely bunch of coconuts")
-message = "I've got a lovely bunch of coconuts"
-#print(message)
-#print(message*5)
-print(message, 1strip())
+quote = "A person who never made a mistake never tried anything new"
+name = "Albert Einstein"
+print(name, "once said", quote)
